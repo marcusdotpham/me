@@ -1,0 +1,12 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+  
+title: Murcus Pham
+
+highlighter: rouge
